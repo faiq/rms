@@ -38,7 +38,10 @@ var quotes = [
   "One reason you should not use web applications to do your computing is that you lose control.",
   "The interesting thing about cloud computing is that we've redefined cloud computing to include everything that we already do.",
   "Facebook collects a lot of data from people and admits it. And it also collects data which isn't admitted. And Google does too. As for Microsoft, I don't know. But I do know that Windows has features that send data about the user.",
-  "If there is a Like button in a page, Facebook knows who visited that page. And it can get IP address of the computer visiting the page even if the person is not a Facebook user."
+  "If there is a Like button in a page, Facebook knows who visited that page. And it can get IP address of the computer visiting the page even if the person is not a Facebook user.",
+  "Portable phones are Stalin's dreams",
+  "If you see someone drowning and you know how to swim and there's no one around, go save them... unless that someone is Bush",
+  "Teaching kids to use Windows is like teaching kids to chew tobacco"
 ]
 
 module.exports = function () { 
