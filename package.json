@@ -1,0 +1,24 @@
+{
+  "name": "rms",
+  "version": "1.0.0",
+  "description": "Richard Stallman quotes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/faiq/rms"
+  },
+  "keywords": [
+    "richard",
+    "stallman",
+    "quotes"
+  ],
+  "author": "faiq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faiq/rms/issues"
+  },
+  "homepage": "https://github.com/faiq/rms"
+}
