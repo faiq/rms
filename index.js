@@ -41,7 +41,10 @@ var quotes = [
   "If there is a Like button in a page, Facebook knows who visited that page. And it can get IP address of the computer visiting the page even if the person is not a Facebook user.",
   "Portable phones are Stalin's dreams",
   "If you see someone drowning and you know how to swim and there's no one around, go save them... unless that someone is Bush",
-  "Teaching kids to use Windows is like teaching kids to chew tobacco"
+  "Teaching kids to use Windows is like teaching kids to chew tobacco",
+  "If you can find a host for me that has a friendly parrot, I will be very very glad. If you can find someone who has a friendly parrot I can visit with, that will be nice too.",
+  "I do not eat breakfast. Please do not ask me any questions about what I will do breakfast. Please just do not bring it up.",
+  "One situation where I do not need help, let alone supervision, is in crossing streets. I grew up in the middle of the world's biggest city, full of cars, and I have crossed streets without assistance even in the chaotic traffic of Bangalore and Delhi. Please just leave me alone when I cross streets."
 ]
 
 module.exports = function () { 
